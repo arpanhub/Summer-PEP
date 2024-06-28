@@ -9,9 +9,10 @@
   }
 </style>
 </head>
-  
+<body>
+
 # Summer-PEP-Questions
-  
+
 # Array and Matrix Questions 🧮
 1. [LeetCode 74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 2. [LeetCode 33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
@@ -19,8 +20,6 @@
 4. [LeetCode 1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
 5. [GFG Missing number in array](https://www.geeksforgeeks.org/find-the-missing-number/)
 6. [Space for additional array questions]
-
-#
 
 # Bit Manipulation ⚙️
 1. [LeetCode 136. Single Number](https://leetcode.com/problems/single-number/)
@@ -37,7 +36,6 @@
 12. [GFG Count Total Setbits](https://www.geeksforgeeks.org/count-total-set-bits-in-all-numbers-from-1-to-n/)
 13. [Space for additional bit manipulation questions]
 
-#
 # Stack Questions 📚
 1. [LeetCode Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 2. [LeetCode Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
@@ -48,7 +46,6 @@
 7. [GFG Next Greater Element](https://www.geeksforgeeks.org/next-greater-element/)
 8. [Space for additional stack questions]
 
-#
 # Linked List Questions 🔗
 1. [LeetCode Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 2. [LeetCode Add Two Numbers Linked list](https://leetcode.com/problems/add-two-numbers/)
@@ -61,7 +58,6 @@
 9. [GFG Add 1 to a number represented as linked list](https://www.geeksforgeeks.org/add-1-to-a-number-represented-as-linked-list/)
 10. [Space for additional linked list questions]
 
-#
 # Binary Search Tree (BST) Questions 🌳
 1. [LeetCode Validate a BST](https://leetcode.com/problems/validate-binary-search-tree/)
 2. [LeetCode Max Depth of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
@@ -75,15 +71,12 @@
 10. [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)
 11. [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/)
 
-
-#
 # Tree Traversal 🌲
 1. [LeetCode Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 2. [LeetCode Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 3. [LeetCode Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 4. [Space for additional tree traversal questions]
 
-#
 # Mathematics and Logic 🧠
 1. [LeetCode 204. Count Primes](https://leetcode.com/problems/count-primes/)
 2. [LeetCode Greatest Common Divisor](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
@@ -91,27 +84,23 @@
 4. [GFG Countprime in range](https://www.geeksforgeeks.org/count-number-of-prime-numbers-in-range-l-r/)
 5. [Space for additional mathematics questions]
 
-#
 # Dynamic Programming 📝
 1. [LeetCode Unique Paths](https://leetcode.com/problems/unique-paths/)
 2. [LeetCode Unique Paths-2](https://leetcode.com/problems/unique-paths-ii/)
 3. [LeetCode Climb Stairs](https://leetcode.com/problems/climbing-stairs/)
 4. [Space for additional dynamic programming questions]
 
-#
 # Recursion and Backtracking 🔄
 1. [LeetCode Print Maze Paths](https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/)
 2. [LeetCode Print All Subsequences](https://www.geeksforgeeks.org/print-subsequences-string/)
 3. [Space for additional recursion/backtracking questions]
 
-#
 # Sorting Algorithms 🌀
 1. [GFG Merge sort](https://www.geeksforgeeks.org/merge-sort/)
 2. [GFG Quick sort](https://www.geeksforgeeks.org/quick-sort/)
 3. [GFG Selection sort](https://www.geeksforgeeks.org/selection-sort/)
 4. [Space for additional sorting algorithm questions]
 
-#
 # Miscellaneous 🌐
 1. [LeetCode Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
 2. [GFG Aggressive Cows](https://www.geeksforgeeks.org/aggressive-cows-greedy-algorithm/)
@@ -122,12 +111,17 @@
 7. [Min Cost To connect ropes](https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
 8. [Space for additional miscellaneous questions]
 
-#
 # Notes on Time and Space Complexity ⏲️
-- **Merge Sort**: Time O(nlogn), Space O(n1+n2) + recursion stack
-- **Bubble Sort**: Time O(n) when sorted, O(n^2) otherwise, Space O(1)
+- **Merge Sort**: Time O(nlogn), Space O(n)
+- **Quick Sort**: Time O(nlogn) on average, Space O(logn)
 - **Selection Sort**: Time O(n^2), Space O(1)
-#
+- **Insertion Sort**: Time O(n^2), Space O(1)
+- **Bubble Sort**: Time O(n^2), Space O(1)
+- **Heap Sort**: Time O(nlogn), Space O(1)
+- **Counting Sort**: Time O(n+k), Space O(k)
+- **Radix Sort**: Time O(nk), Space O(n+k)
+- **Bucket Sort**: Time O(n+k), Space O(n)
+- **Shell Sort**: Time O(nlogn), Space O(1)
 
 </body>
 </html>
