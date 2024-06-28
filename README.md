@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  body {
-    background-color: black;
-    color: white;
-    font-family: Arial, sans-serif;
-  }
-</style>
-</head>
-
 
 # Array and Matrix Questions 🧮
 1. [LeetCode 74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
