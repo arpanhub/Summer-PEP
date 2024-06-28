@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  body {
-    background-color: black;
-    color: white;
-    font-family: Arial, sans-serif;
-  }
-</style>
-</head>
-<body>
-
 # Summer-PEP-Questions
 
 # Array and Matrix Questions 🧮
@@ -122,6 +109,3 @@
 - **Radix Sort**: Time O(nk), Space O(n+k)
 - **Bucket Sort**: Time O(n+k), Space O(n)
 - **Shell Sort**: Time O(nlogn), Space O(1)
-
-</body>
-</html>
