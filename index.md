@@ -1,5 +1,3 @@
-# Summer-PEP-Questions
-
 # Array and Matrix Questions 🧮
 1. [LeetCode 74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 2. [LeetCode 33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
