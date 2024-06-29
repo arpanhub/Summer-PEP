@@ -56,6 +56,7 @@
 9. [GFG Bottom view of binary tree](https://www.geeksforgeeks.org/bottom-view-binary-tree/)
 10. [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)
 11. [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/)
+12. [Lowest common ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
 
 # Tree Traversal 🌲
 1. [LeetCode Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
