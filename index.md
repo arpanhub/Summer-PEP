@@ -78,8 +78,12 @@
 4. [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
 5. [120. Triangle](https://leetcode.com/problems/triangle/description/)
 6. [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
-7. [house robber i](https://leetcode.com/problems/house-robber//)
-8. [house robber ii](https://leetcode.com/problems/house-robber-ii/)
+7. [house robber I](https://leetcode.com/problems/house-robber//)
+8. [house robber II](https://leetcode.com/problems/house-robber-ii/)
+8. [Coin Change I](https://leetcode.com/problems/coin-change/)
+8. [Coin Change II](https://leetcode.com/problems/coin-change-ii/)
+8. [Minimun Cost Homecoming of Robot in a grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/description/)
+
 4. [Space for additional dynamic programming questions]
 
 # Recursion and Backtracking 🔄
