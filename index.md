@@ -75,6 +75,11 @@
 1. [LeetCode Unique Paths](https://leetcode.com/problems/unique-paths/)
 2. [LeetCode Unique Paths-2](https://leetcode.com/problems/unique-paths-ii/)
 3. [LeetCode Climb Stairs](https://leetcode.com/problems/climbing-stairs/)
+4. [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
+5. [120. Triangle](https://leetcode.com/problems/triangle/description/)
+6. [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
+7. [house robber i](https://leetcode.com/problems/house-robber//)
+8. [house robber ii](https://leetcode.com/problems/house-robber-ii/)
 4. [Space for additional dynamic programming questions]
 
 # Recursion and Backtracking 🔄
